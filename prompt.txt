@@ -1,0 +1,6 @@
+I am teaching about sanity.io in this course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"start":248.96,"end":250.96,"text":" I have told you in my first video"},{"start":593.84,"end":594.84,"text":" in this video"},{"start":769.84,"end":770.84,"text":" this video"},{"start":720.84,"end":721.84,"text":" this video here"},{"start":776.84,"end":777.84,"text":" you in the next video"}]
+---------------------------------
+"what is in the first video?"
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course
