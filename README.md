@@ -49,15 +49,15 @@ Answer with Relevant Video Timestamp
 
 ## Tech Stack
 
-*Python
-*OpenAI Whisper – Speech-to-text transcription
-*Ollama – Local LLM and embedding inference
-*Llama 3.2 – Answer generation
-*BGE-M3 – Text embeddings
-*Scikit-learn – Cosine similarity search
-*Pandas – Data processing
-*Joblib – Embedding persistence
-*FFmpeg – Video-to-audio conversion
+* Python
+* OpenAI Whisper – Speech-to-text transcription
+* Ollama – Local LLM and embedding inference
+* Llama 3.2 – Answer generation
+* BGE-M3 – Text embeddings
+* Scikit-learn – Cosine similarity search
+* Pandas – Data processing
+* Joblib – Embedding persistence
+* FFmpeg – Video-to-audio conversion
 
 ## Project Workflow
 1. Extract Audio from Videos
@@ -142,15 +142,15 @@ Make sure the Ollama service is running locally.
 
 ## Key Concepts Demonstrated
 
-*Retrieval-Augmented Generation (RAG)
-*Semantic Search
-*Text Embeddings
-*Vector Similarity Search
-*Speech-to-Text Processing
-*LLM-Based Question Answering
-*Prompt Engineering
-*Local LLM Inference
-*Grounded Question Answering
+* Retrieval-Augmented Generation (RAG)
+* Semantic Search
+* Text Embeddings
+* Vector Similarity Search
+* Speech-to-Text Processing
+* LLM-Based Question Answering
+* Prompt Engineering
+* Local LLM Inference
+* Grounded Question Answering
 
 
 
