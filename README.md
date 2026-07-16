@@ -48,6 +48,7 @@ Answer with Relevant Video Timestamp
 ```
 
 ## Tech Stack
+
 *Python
 *OpenAI Whisper – Speech-to-text transcription
 *Ollama – Local LLM and embedding inference
@@ -58,7 +59,7 @@ Answer with Relevant Video Timestamp
 *Joblib – Embedding persistence
 *FFmpeg – Video-to-audio conversion
 
-Project Workflow
+## Project Workflow
 1. Extract Audio from Videos
 
 The processvideos.py script converts video files into MP3 audio files using FFmpeg.
